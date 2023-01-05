@@ -1,0 +1,16 @@
+solid test
+    facet normal 
+        outer loop
+	        vertex -1 1 -1
+		    vertex 1 1 -1
+		    vertex 1 1 -1
+	    endloop
+    endfacet
+	facet normal 
+	    outer loop
+            vertex -1 1 -1
+			vertex -1 -1 -1
+			vertec 1 -1 -1
+		endloop
+	endfacet
+endsolid test
